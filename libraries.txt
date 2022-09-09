@@ -1,0 +1,3 @@
+pysql
+mysql
+pyTelegramBotAPI
